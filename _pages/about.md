@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year undergraduate student from [School of CIS](https://cis.swu.edu.cn/), [Southwest University](https://www.swu.edu.cn/). My research interest includes computer vision, computer graphics, machine learning, and computational photography.Besides, as a fan of leading edge technology,I has already taken aim at agent field and get ready for struggling for state-of-the-art!
+I'm a third year undergraduate student from [College of CIS](https://cis.swu.edu.cn/), [Southwest University](https://www.swu.edu.cn/). My research interest includes computer vision, computer graphics, machine learning, and computational photography.Besides, as a fan of leading edge technology,I has already taken aim at agent field and get ready for struggling for state-of-the-art!
 
 
 
