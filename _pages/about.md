@@ -11,11 +11,18 @@ I'm a third year undergraduate student from [College of CIS](https://cis.swu.edu
 
 
 
-A data-driven personal website
+Hello everyone!I'm Fan Yichen.Nice to meet you all!
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+Fan Yichen is a dedicated third-year undergraduate student deeply fascinated by the frontier of artificial intelligence. His academic focus lies at the intersection of ​​deep learning​​, ​​continual learning​​, and the development of autonomous AI agents. He is particularly interested in how intelligent systems can progressively acquire, refine, and utilize knowledge over time without succumbing to ​​catastrophic forgetting​​, a primary challenge in continual learning where learning new information interferes with previously retained knowledge
+.
+A significant part of his interest involves the architecture and capabilities of ​​AI Agents​​—systems that can perceive their environment, make decisions, and take actions to achieve specific goals
+. He is exploring how these agents can be designed to learn continuously from their interactions with dynamic environments, moving beyond static, task-specific models towards more general and adaptable intelligence. This exploration naturally extends to the ​​Model Context Protocol (MCP)​​, which he understands as a pivotal framework for enabling large language models (LLMs) to connect seamlessly with external data sources, tools, and services
+. He is keen on understanding how MCP functions as a standardized "USB-C interface for AI," facilitating the flexible tool-use and context-aware capabilities that are essential for building more powerful and practical AI agents
+.
+His current conceptual work involves investigating various methodologies to achieve effective continual learning. This includes studying ​​regularization-based approaches​​ that constrain parameter updates to protect old knowledge, ​​replay-based methods​​ that rehearse past experiences, and ​​architectural strategies​​ that dynamically allocate or modularize network components to accommodate new skills
+. He is also intrigued by the potential of leveraging large-scale pre-trained ​​foundation models​​ as a base to reduce forgetting and improve knowledge transfer in continual learning scenarios
+.
+Looking forward, he aims to deepen his practical understanding by applying these concepts to tangible problems. Potential areas of application include optimizing workflows or developing adaptive systems that can operate in complex, evolving environments. Through his ongoing coursework and self-directed study, he is building a solid foundation in the core principles of deep neural networks, reinforcement learning, and the system design thinking required to contribute to the advancement of lifelong learning machines.
 
 For those users that need more advanced functionality, the template also supports the following popular tools:
 - [MathJax](https://www.mathjax.org/) for mathematical equations
